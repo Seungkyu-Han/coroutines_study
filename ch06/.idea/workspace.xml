@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="204b82f3-a4c9-4879-8607-88d2a5092441" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../ch02/fsm/src/main/java/fastcampus/fsm/practice/CallbackExample.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch02/fsm/src/main/java/fastcampus/fsm/practice/ContinuationExample.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch02/fsm/src/main/java/fastcampus/fsm/practice/FsmCalculator.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch02/fsm/src/main/java/fastcampus/fsm/practice/FsmCalculatorUpgrade1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch02/fsm/src/main/java/fastcampus/fsm/practice/FsmCalculatorUpgrade2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch02/fsm/src/main/java/fastcampus/fsm/practice/FsmExample.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch02/fsm/src/main/java/fastcampus/fsm/practice/NonFsmCalculator.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch02/fsm/src/main/java/fastcampus/fsm/util/log.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch02/orderExample/src/main/kotlin/fastcampus/orderexample/async/CustomerFutureService.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch02/orderExample/src/main/kotlin/fastcampus/orderexample/async/DeliveryAddressPublisherService.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch02/orderExample/src/main/kotlin/fastcampus/orderexample/async/FirstFinder.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch02/orderExample/src/main/kotlin/fastcampus/orderexample/async/OrderAsyncExample.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch02/orderExample/src/main/kotlin/fastcampus/orderexample/async/OrderAsyncExampleUpgrade1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch02/orderExample/src/main/kotlin/fastcampus/orderexample/async/OrderAsyncExampleUpgrade2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch02/orderExample/src/main/kotlin/fastcampus/orderexample/async/OrderAsyncExampleUpgrade3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch02/orderExample/src/main/kotlin/fastcampus/orderexample/async/OrderReactorService.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch02/orderExample/src/main/kotlin/fastcampus/orderexample/async/ProductRxjava3Service.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch02/orderExample/src/main/kotlin/fastcampus/orderexample/async/StoreMutinyService.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch02/orderExample/src/main/kotlin/fastcampus/orderexample/blocking/CustomerBlockingService.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch02/orderExample/src/main/kotlin/fastcampus/orderexample/blocking/DeliveryAddressBlockingService.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch02/orderExample/src/main/kotlin/fastcampus/orderexample/blocking/Order.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch02/orderExample/src/main/kotlin/fastcampus/orderexample/blocking/OrderBlockingExample.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch02/orderExample/src/main/kotlin/fastcampus/orderexample/blocking/OrderBlockingService.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch02/orderExample/src/main/kotlin/fastcampus/orderexample/blocking/ProductBlockingService.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch02/orderExample/src/main/kotlin/fastcampus/orderexample/blocking/StoreBlockingService.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch02/orderExample/src/main/kotlin/fastcampus/orderexample/common/Customer.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch02/orderExample/src/main/kotlin/fastcampus/orderexample/common/DeliveryAddress.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch02/orderExample/src/main/kotlin/fastcampus/orderexample/common/Product.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch02/orderExample/src/main/kotlin/fastcampus/orderexample/common/Store.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch02/orderExample/src/main/kotlin/fastcampus/orderexample/common/log.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch03/CoroutineContext/src/main/kotlin/seungkyu/coroutinecontext/context/AsyncExceptionExample.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch03/CoroutineContext/src/main/kotlin/seungkyu/coroutinecontext/context/ContextGetExample.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch03/CoroutineContext/src/main/kotlin/seungkyu/coroutinecontext/context/ContextMinusExample.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch03/CoroutineContext/src/main/kotlin/seungkyu/coroutinecontext/context/ContextPlusExample.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch03/CoroutineContext/src/main/kotlin/seungkyu/coroutinecontext/context/ContextPropagateExample.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch03/CoroutineContext/src/main/kotlin/seungkyu/coroutinecontext/context/CoroutineName.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch03/CoroutineContext/src/main/kotlin/seungkyu/coroutinecontext/context/CoroutineThreadLocalExample.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch03/CoroutineContext/src/main/kotlin/seungkyu/coroutinecontext/context/CustomCoroutineScopeExample.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch03/CoroutineContext/src/main/kotlin/seungkyu/coroutinecontext/context/DefaultIODispatcher.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch03/CoroutineContext/src/main/kotlin/seungkyu/coroutinecontext/context/LaunchCoroutineExceptionHandler.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch03/CoroutineContext/src/main/kotlin/seungkyu/coroutinecontext/context/LaunchExceptionExample.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch03/CoroutineContext/src/main/kotlin/seungkyu/coroutinecontext/context/NestedSuspendContextExample.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch03/CoroutineContext/src/main/kotlin/seungkyu/coroutinecontext/context/ReactorContextExample.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch03/CoroutineContext/src/main/kotlin/seungkyu/coroutinecontext/context/ThreadContextElementExample.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch03/CoroutineContext/src/main/kotlin/seungkyu/coroutinecontext/context/WithContextExample.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch03/CoroutineContext/src/main/kotlin/seungkyu/coroutinecontext/util/Log.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch04/coroutine/src/main/kotlin/seungkyu/coroutine/scope/AsyncCreateCoroutineExample.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch04/coroutine/src/main/kotlin/seungkyu/coroutine/scope/CoroutineCreateCoroutineExample.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch04/coroutine/src/main/kotlin/seungkyu/coroutine/scope/CoroutineScopeCancelExample.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch04/coroutine/src/main/kotlin/seungkyu/coroutine/scope/CoroutineScopeCreateExample.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch04/coroutine/src/main/kotlin/seungkyu/coroutine/scope/JobTreeExample.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch04/coroutine/src/main/kotlin/seungkyu/coroutine/scope/LaunchCreateCoroutineExample.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch04/coroutine/src/main/kotlin/seungkyu/coroutine/scope/TimeoutCancelExample.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch04/coroutine/src/main/kotlin/seungkyu/coroutine/util/log.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch05/flux/src/main/kotlin/seungkyu/flux/practice/ChannelCloseExample.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch05/flux/src/main/kotlin/seungkyu/flux/practice/ChannelRendezvousExample.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch05/flux/src/main/kotlin/seungkyu/flux/practice/FlowCreateExample.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch05/flux/src/main/kotlin/seungkyu/flux/practice/FlowExample.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch05/flux/src/main/kotlin/seungkyu/flux/practice/FlowFilter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch05/flux/src/main/kotlin/seungkyu/flux/practice/FlowFlowOnExample.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch05/flux/src/main/kotlin/seungkyu/flux/practice/FlowMapExample.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch05/flux/src/main/kotlin/seungkyu/flux/practice/FlowSingleFirstExample.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch05/flux/src/main/kotlin/seungkyu/flux/practice/FlowTransformExample.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch05/flux/src/main/kotlin/seungkyu/flux/util/log.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongo/src/main/http/chat.http" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongo/src/main/kotlin/fastcampus/mongodb/config/MappingConfig.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongo/src/main/kotlin/fastcampus/mongodb/config/MongoConfig.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongo/src/main/kotlin/fastcampus/mongodb/config/WebSocketConfig.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongo/src/main/kotlin/fastcampus/mongodb/entity/ChatDocument.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongo/src/main/kotlin/fastcampus/mongodb/handler/Chat.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongo/src/main/kotlin/fastcampus/mongodb/handler/ChatCoroutineWebSocketHandler.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongo/src/main/kotlin/fastcampus/mongodb/repository/ChatMongoCoroutineRepository.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongo/src/main/kotlin/fastcampus/mongodb/service/ChatCoroutineService.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongo/src/main/kotlin/fastcampus/mongodb/util/log.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/r2dbc/src/main/java/fastcampus/r2dbc/auth/IamAuthentication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/r2dbc/src/main/java/fastcampus/r2dbc/common/Article.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/r2dbc/src/main/java/fastcampus/r2dbc/common/EmptyImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/r2dbc/src/main/java/fastcampus/r2dbc/common/Image.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/r2dbc/src/main/java/fastcampus/r2dbc/common/repository/ArticleEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/r2dbc/src/main/java/fastcampus/r2dbc/common/repository/AuthEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/r2dbc/src/main/java/fastcampus/r2dbc/common/repository/ImageEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/r2dbc/src/main/java/fastcampus/r2dbc/config/R2dbcConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/r2dbc/src/main/java/fastcampus/r2dbc/filter/SecurityWebFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/r2dbc/src/main/java/fastcampus/r2dbc/reactor/UserReactorService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/r2dbc/src/main/java/fastcampus/r2dbc/reactor/r2dbc/UserR2dbcRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/r2dbc/src/main/java/fastcampus/r2dbc/reactor/repository/ArticleReactorRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/r2dbc/src/main/java/fastcampus/r2dbc/reactor/repository/FollowReactorRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/r2dbc/src/main/java/fastcampus/r2dbc/reactor/repository/ImageReactorRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/r2dbc/src/main/java/fastcampus/r2dbc/runner/PersonInsertRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/r2dbc/src/main/java/fastcampus/r2dbc/service/AuthService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/r2dbc/src/main/kotlin/fastcampus/r2dbc/common/User.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/r2dbc/src/main/kotlin/fastcampus/r2dbc/common/repository/UserEntity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/r2dbc/src/main/kotlin/fastcampus/r2dbc/controller/UserController.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/r2dbc/src/main/kotlin/fastcampus/r2dbc/controller/dto/ProfileImageResponse.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/r2dbc/src/main/kotlin/fastcampus/r2dbc/controller/dto/SignupUserRequest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/r2dbc/src/main/kotlin/fastcampus/r2dbc/controller/dto/UserResponse.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/r2dbc/src/main/kotlin/fastcampus/r2dbc/service/UserCoroutineService.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/r2dbc/src/main/kotlin/fastcampus/r2dbc/service/response/ImageResponse.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/mongo">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/mongo/r2dbc">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/mongodb">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Data Class" />
+        <option value="Kotlin Interface" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HttpClientBidiClientMessagesInputHistory">
+    <entries>
+      <HistoryEntry>
+        <option name="language" value="JSON" />
+        <option name="text" value="a: hi" />
+      </HistoryEntry>
+      <HistoryEntry>
+        <option name="language" value="JSON" />
+        <option name="text" value="a: hello" />
+      </HistoryEntry>
+      <HistoryEntry>
+        <option name="language" value="JSON" />
+        <option name="text" value="a: hello" />
+      </HistoryEntry>
+    </entries>
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2mpyvfkUvDSJzP9lWDeOQ9wFR4X" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.Build mongo.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Build mongodb.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.chat | #1.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.chat | #2.executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.ChatApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.MongoApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.MongodbApplication (1).executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.MongodbApplication.executor&quot;: &quot;Run&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;jbr-17&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/hanseung-gyu/Desktop/semester/24-2/Coroutines/ch06/mongo/src/main/http&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.configurations.included.in.services&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;kotlin-gradle-user-dirs&quot;: [
+      &quot;/Users/hanseung-gyu/.gradle&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/mongo/src/main/http" />
+      <recent name="$PROJECT_DIR$/mongo/src/main" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="fastcampus.mongodb.handler" />
+      <recent name="fastcampus.mongodb.service" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.MongoApplication">
+    <configuration name="chat | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/mongo/src/main/http/chat.http" requestIdentifier="#1" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="chat | #2" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/mongo/src/main/http/chat.http" index="2" requestIdentifier="#2" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="MongoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="mongo.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="fastcampus.mongodb.MongoApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fastcampus.mongodb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.MongoApplication" />
+        <item itemvalue="HTTP Request.chat | #1" />
+        <item itemvalue="HTTP Request.chat | #2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="204b82f3-a4c9-4879-8607-88d2a5092441" name="Changes" comment="" />
+      <created>1727788043914</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727788043914</updated>
+      <workItem from="1727788045454" duration="3925000" />
+      <workItem from="1727936489021" duration="9000" />
+      <workItem from="1728220465647" duration="47000" />
+      <workItem from="1728220517347" duration="68000" />
+      <workItem from="1728220587656" duration="13000" />
+      <workItem from="1728220630982" duration="3351000" />
+      <workItem from="1728224021011" duration="44000" />
+      <workItem from="1728224067725" duration="48000" />
+      <workItem from="1728224178959" duration="7000" />
+      <workItem from="1728224196171" duration="55000" />
+      <workItem from="1728225061841" duration="7000" />
+      <workItem from="1728277505323" duration="6000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

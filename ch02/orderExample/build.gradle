@@ -1,0 +1,51 @@
+plugins {
+	id 'org.jetbrains.kotlin.jvm' version '1.9.25'
+	id 'org.jetbrains.kotlin.plugin.spring' version '1.9.25'
+	id 'org.springframework.boot' version '3.3.4'
+	id 'io.spring.dependency-management' version '1.1.6'
+}
+
+group = 'fastcampus'
+version = '0.0.1-SNAPSHOT'
+
+java {
+	toolchain {
+		languageVersion = JavaLanguageVersion.of(17)
+	}
+}
+
+repositories {
+	mavenCentral()
+}
+
+dependencies {
+    // coroutine
+    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm")
+    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-reactor")
+    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-rx3")
+
+    // reactor
+    implementation("io.projectreactor:reactor-core")
+
+    // rxjava3
+    implementation("io.reactivex.rxjava3:rxjava")
+
+	implementation("io.github.microutils:kotlin-logging-jvm:2.0.11")
+
+	implementation 'io.smallrye.reactive:mutiny:1.7.0'
+
+
+	// mutiny
+//    implementation("io.smallrye.reactive:mutiny")
+//    implementation("io.smallrye.reactive:mutiny-kotlin")
+}
+
+kotlin {
+	compilerOptions {
+		freeCompilerArgs.addAll '-Xjsr305=strict'
+	}
+}
+
+tasks.named('test') {
+	useJUnitPlatform()
+}

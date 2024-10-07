@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="92244f7a-c8ee-4b88-83e6-ef7efe4a9e16" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../ch02/fsm/src/main/java/fastcampus/fsm/practice/CallbackExample.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch02/fsm/src/main/java/fastcampus/fsm/practice/ContinuationExample.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch02/fsm/src/main/java/fastcampus/fsm/practice/FsmCalculator.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch02/fsm/src/main/java/fastcampus/fsm/practice/FsmCalculatorUpgrade1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch02/fsm/src/main/java/fastcampus/fsm/practice/FsmCalculatorUpgrade2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch02/fsm/src/main/java/fastcampus/fsm/practice/FsmExample.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch02/fsm/src/main/java/fastcampus/fsm/practice/NonFsmCalculator.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch02/fsm/src/main/java/fastcampus/fsm/util/log.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch02/orderExample/src/main/kotlin/fastcampus/orderexample/async/CustomerFutureService.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch02/orderExample/src/main/kotlin/fastcampus/orderexample/async/DeliveryAddressPublisherService.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch02/orderExample/src/main/kotlin/fastcampus/orderexample/async/FirstFinder.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch02/orderExample/src/main/kotlin/fastcampus/orderexample/async/OrderAsyncExample.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch02/orderExample/src/main/kotlin/fastcampus/orderexample/async/OrderAsyncExampleUpgrade1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch02/orderExample/src/main/kotlin/fastcampus/orderexample/async/OrderAsyncExampleUpgrade2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch02/orderExample/src/main/kotlin/fastcampus/orderexample/async/OrderAsyncExampleUpgrade3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch02/orderExample/src/main/kotlin/fastcampus/orderexample/async/OrderReactorService.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch02/orderExample/src/main/kotlin/fastcampus/orderexample/async/ProductRxjava3Service.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch02/orderExample/src/main/kotlin/fastcampus/orderexample/async/StoreMutinyService.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch02/orderExample/src/main/kotlin/fastcampus/orderexample/blocking/CustomerBlockingService.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch02/orderExample/src/main/kotlin/fastcampus/orderexample/blocking/DeliveryAddressBlockingService.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch02/orderExample/src/main/kotlin/fastcampus/orderexample/blocking/Order.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch02/orderExample/src/main/kotlin/fastcampus/orderexample/blocking/OrderBlockingExample.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch02/orderExample/src/main/kotlin/fastcampus/orderexample/blocking/OrderBlockingService.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch02/orderExample/src/main/kotlin/fastcampus/orderexample/blocking/ProductBlockingService.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch02/orderExample/src/main/kotlin/fastcampus/orderexample/blocking/StoreBlockingService.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch02/orderExample/src/main/kotlin/fastcampus/orderexample/common/Customer.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch02/orderExample/src/main/kotlin/fastcampus/orderexample/common/DeliveryAddress.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch02/orderExample/src/main/kotlin/fastcampus/orderexample/common/Product.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch02/orderExample/src/main/kotlin/fastcampus/orderexample/common/Store.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch02/orderExample/src/main/kotlin/fastcampus/orderexample/common/log.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoroutineContext/src/main/kotlin/seungkyu/coroutinecontext/context/AsyncExceptionExample.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoroutineContext/src/main/kotlin/seungkyu/coroutinecontext/context/ContextGetExample.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoroutineContext/src/main/kotlin/seungkyu/coroutinecontext/context/ContextMinusExample.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoroutineContext/src/main/kotlin/seungkyu/coroutinecontext/context/ContextPlusExample.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoroutineContext/src/main/kotlin/seungkyu/coroutinecontext/context/ContextPropagateExample.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoroutineContext/src/main/kotlin/seungkyu/coroutinecontext/context/CoroutineName.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoroutineContext/src/main/kotlin/seungkyu/coroutinecontext/context/CoroutineThreadLocalExample.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoroutineContext/src/main/kotlin/seungkyu/coroutinecontext/context/CustomCoroutineScopeExample.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoroutineContext/src/main/kotlin/seungkyu/coroutinecontext/context/DefaultIODispatcher.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoroutineContext/src/main/kotlin/seungkyu/coroutinecontext/context/LaunchCoroutineExceptionHandler.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoroutineContext/src/main/kotlin/seungkyu/coroutinecontext/context/LaunchExceptionExample.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoroutineContext/src/main/kotlin/seungkyu/coroutinecontext/context/NestedSuspendContextExample.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoroutineContext/src/main/kotlin/seungkyu/coroutinecontext/context/ReactorContextExample.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoroutineContext/src/main/kotlin/seungkyu/coroutinecontext/context/ThreadContextElementExample.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoroutineContext/src/main/kotlin/seungkyu/coroutinecontext/context/WithContextExample.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoroutineContext/src/main/kotlin/seungkyu/coroutinecontext/util/Log.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch06/mongodb/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch06/mongodb/src/main/kotlin/fastcampus/mongodb/ChatApplication.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch06/mongodb/src/main/kotlin/fastcampus/mongodb/config/MappingConfig.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch06/mongodb/src/main/kotlin/fastcampus/mongodb/config/MongoConfig.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch06/mongodb/src/main/kotlin/fastcampus/mongodb/config/WebSocketConfig.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch06/mongodb/src/main/kotlin/fastcampus/mongodb/handler/Chat.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch06/mongodb/src/main/kotlin/fastcampus/mongodb/handler/ChatCoroutineWebSocketHandler.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch06/mongodb/src/main/kotlin/fastcampus/mongodb/helper/log.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch06/mongodb/src/main/kotlin/fastcampus/mongodb/repository/ChatMongoCoroutineRepository.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch06/mongodb/src/main/kotlin/fastcampus/mongodb/service/ChatCoroutineService.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/CoroutineContext">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2mjZDBvA0dMBFlekXOrbxwssla3" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.Build CoroutineContext.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.AsyncExceptionExampleKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.ContextGetExampleKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.ContextMinusExampleKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.ContextPlusExampleKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.ContextPropagateExampleKt (1).executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.ContextPropagateExampleKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.CoroutineNameKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.CoroutineThreadLocalExampleKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.CustomCoroutineScopeExampleKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.DefaultIODispatcherKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.LaunchCoroutineExceptionHandlerKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.LaunchExceptionExampleKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.MainKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.NestedSuspendContextExampleKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.ReactorContextExampleKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.ThreadContextElementExampleKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.WithContextExampleKt.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;jbr-17&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/hanseung-gyu/Desktop/semester/24-2/Coroutines/ch03/CoroutineContext/src/main/kotlin/seungkyu/coroutinecontext/context&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;kotlin-gradle-user-dirs&quot;: [
+      &quot;/Users/hanseung-gyu/.gradle&quot;
+    ]
+  }
+}</component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/CoroutineContext/src/main/kotlin/seungkyu/coroutinecontext/context" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.LaunchCoroutineExceptionHandlerKt">
+    <configuration name="AsyncExceptionExampleKt" type="JetRunConfigurationType" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seungkyu.coroutinecontext.context.AsyncExceptionExampleKt" />
+      <module name="CoroutineContext.main" />
+      <shortenClasspath name="NONE" />
+      <option name="VM_PARAMETERS" value="-Dkotlinx.coroutines.debug" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContextGetExampleKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seungkyu.coroutinecontext.context.ContextGetExampleKt" />
+      <module name="CoroutineContext.main" />
+      <shortenClasspath name="NONE" />
+      <option name="VM_PARAMETERS" value="-Dkotlinx.coroutines.debug" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CoroutineNameKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seungkyu.coroutinecontext.context.CoroutineNameKt" />
+      <module name="CoroutineContext.main" />
+      <shortenClasspath name="NONE" />
+      <option name="VM_PARAMETERS" value="-Dkotlinx.coroutines.debug" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CoroutineThreadLocalExampleKt" type="JetRunConfigurationType" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seungkyu.coroutinecontext.context.CoroutineThreadLocalExampleKt" />
+      <module name="CoroutineContext.main" />
+      <shortenClasspath name="NONE" />
+      <option name="VM_PARAMETERS" value="-Dkotlinx.coroutines.debug" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LaunchCoroutineExceptionHandlerKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seungkyu.coroutinecontext.context.LaunchCoroutineExceptionHandlerKt" />
+      <module name="CoroutineContext.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LaunchExceptionExampleKt" type="JetRunConfigurationType" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seungkyu.coroutinecontext.context.LaunchExceptionExampleKt" />
+      <module name="CoroutineContext.main" />
+      <shortenClasspath name="NONE" />
+      <option name="VM_PARAMETERS" value="-Dkotlinx.coroutines.debug" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NestedSuspendContextExampleKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seungkyu.coroutinecontext.context.NestedSuspendContextExampleKt" />
+      <module name="CoroutineContext.main" />
+      <shortenClasspath name="NONE" />
+      <option name="VM_PARAMETERS" value="-Dkotlinx.coroutines.debug" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadContextElementExampleKt" type="JetRunConfigurationType" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seungkyu.coroutinecontext.context.ThreadContextElementExampleKt" />
+      <module name="CoroutineContext.main" />
+      <shortenClasspath name="NONE" />
+      <option name="VM_PARAMETERS" value="-Dkotlinx.coroutines.debug" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WithContextExampleKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seungkyu.coroutinecontext.context.WithContextExampleKt" />
+      <module name="CoroutineContext.main" />
+      <shortenClasspath name="NONE" />
+      <option name="VM_PARAMETERS" value="-Dkotlinx.coroutines.debug" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CoroutineContextApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="CoroutineContext.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="seungkyu.coroutinecontext.CoroutineContextApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Kotlin.AsyncExceptionExampleKt" />
+      <item itemvalue="Kotlin.CoroutineThreadLocalExampleKt" />
+      <item itemvalue="Kotlin.LaunchExceptionExampleKt" />
+      <item itemvalue="Kotlin.ThreadContextElementExampleKt" />
+      <item itemvalue="Kotlin.CoroutineNameKt" />
+      <item itemvalue="Kotlin.LaunchCoroutineExceptionHandlerKt" />
+      <item itemvalue="Kotlin.WithContextExampleKt" />
+      <item itemvalue="Kotlin.NestedSuspendContextExampleKt" />
+      <item itemvalue="Kotlin.ContextGetExampleKt" />
+      <item itemvalue="Spring Boot.CoroutineContextApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.LaunchCoroutineExceptionHandlerKt" />
+        <item itemvalue="Kotlin.CoroutineNameKt" />
+        <item itemvalue="Kotlin.WithContextExampleKt" />
+        <item itemvalue="Kotlin.NestedSuspendContextExampleKt" />
+        <item itemvalue="Kotlin.ContextGetExampleKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="92244f7a-c8ee-4b88-83e6-ef7efe4a9e16" name="Changes" comment="" />
+      <created>1727591823635</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727591823635</updated>
+      <workItem from="1727591824846" duration="2899000" />
+      <workItem from="1727595441815" duration="8058000" />
+      <workItem from="1727680834225" duration="662000" />
+      <workItem from="1727682101973" duration="3000" />
+      <workItem from="1728108840302" duration="10000" />
+      <workItem from="1728108864738" duration="5118000" />
+      <workItem from="1728134485795" duration="81000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
